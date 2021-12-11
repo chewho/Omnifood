@@ -1,1 +1,1 @@
-https://chewho.github.io/omnifood/index.html
+https://chewho.github.io/Omnifood/
